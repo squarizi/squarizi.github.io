@@ -85,23 +85,23 @@ content:
     layout: list
     content:
       - layout: right
-          title: Sage
-          sub_title: Software Engineer/Architect (Ruby on Rails, .NET Core)
-          caption: May 2018 - Jul 2019
-          link: https://www.sage.com/en-us/
-          quote: >
-            Short description of the company (optional)
-          description: | # this will include new lines to allow paragraphs
-            Description of role
+        title: Sage
+        sub_title: Software Engineer/Architect (Ruby on Rails, .NET Core)
+        caption: May 2018 - Jul 2019
+        link: https://www.sage.com/en-us/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: right
-          title: Solvian Tecnologia
-          sub_title: Ruby on Rails Developer / IoT Application
-          caption: Sep 2016 - May 2018
-          link: https://www.solviantecnologia.com/machine-flow
-          quote: >
-            Short description of the company (optional)
-          description: | # this will include new lines to allow paragraphs
-            Description of role
+        title: Solvian Tecnologia
+        sub_title: Ruby on Rails Developer / IoT Application
+        caption: Sep 2016 - May 2018
+        link: https://www.solviantecnologia.com/machine-flow
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: right
         title: Solvian Tecnologia
         sub_title: Java Web / Android Developer
