@@ -85,6 +85,33 @@ content:
     layout: list
     content:
       - layout: right
+        title: Vindi
+        sub_title: Tech Leader
+        caption: May 2020 - Present
+        link: https://vindi.com.br/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Vindi
+        sub_title: Software Engineer Specialist
+        caption: Dec 2019 - May 2020
+        link: https://vindi.com.br/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: CERC
+        sub_title: Software Architect
+        caption: Jul 2019 - Dec 2019
+        link: https://www.cerc.inf.br/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
         title: Sage
         sub_title: Software Engineer/Architect (Ruby on Rails, .NET Core)
         caption: May 2018 - Jul 2019
@@ -107,6 +134,15 @@ content:
         sub_title: Java Web / Android Developer
         caption: May 2015 - Aug 2016
         link: https://www.solviantecnologia.com/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: IBM
+        sub_title: System Specialist
+        caption: Jun 2014 - May 2015
+        link: https://www.ibm.com/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
